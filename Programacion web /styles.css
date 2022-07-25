@@ -1,0 +1,15 @@
+#parraghaf{
+    /*Estilo por id*/
+    margin-top: 25px;
+    color: chocolate;
+    padding: 10px;
+    background-color: blue;
+}
+.clase1{
+    margin: 20px;
+    background-color: #292D69;
+}
+
+h1{
+    background-color: #292D69;
+}
