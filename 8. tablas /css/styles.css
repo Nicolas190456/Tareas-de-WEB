@@ -1,0 +1,21 @@
+table {
+    background-color: beige;
+    border-collapse: collapse;
+}
+thead tr,th {
+    color: black;
+    border: 2px solid rgb(131, 0, 0);
+    padding: 3px;
+}
+tbody td {
+    border: 2px solid rgb(131, 0, 0);
+}
+thead tr {
+    background-color: #50E6BB;
+}
+tbody th {
+    background-color: #E67A63;
+}
+tfoot {
+    background-color: #FE6DED;
+}
